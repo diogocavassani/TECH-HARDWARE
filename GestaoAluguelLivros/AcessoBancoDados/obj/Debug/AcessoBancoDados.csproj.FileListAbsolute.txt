@@ -1,0 +1,5 @@
+C:\Users\Diogo\Desktop\Pen-Drive Backup\FACULDADE\PROGRAMAÇÃO IV\INTERDICIPLINAR\final\TECH HARDWARE\GestaoAluguelLivros\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Diogo\Desktop\Pen-Drive Backup\FACULDADE\PROGRAMAÇÃO IV\INTERDICIPLINAR\final\TECH HARDWARE\GestaoAluguelLivros\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Diogo\Desktop\Pen-Drive Backup\FACULDADE\PROGRAMAÇÃO IV\INTERDICIPLINAR\final\TECH HARDWARE\GestaoAluguelLivros\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Pen-Drive Backup\FACULDADE\PROGRAMAÇÃO IV\INTERDICIPLINAR\final\TECH HARDWARE\GestaoAluguelLivros\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Diogo\Desktop\Pen-Drive Backup\FACULDADE\PROGRAMAÇÃO IV\INTERDICIPLINAR\final\TECH HARDWARE\GestaoAluguelLivros\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
